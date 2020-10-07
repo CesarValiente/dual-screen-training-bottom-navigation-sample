@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/mail" />
+
+    <item
+        android:id="@+id/item2"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/map" />
+
+    <item
+        android:id="@+id/item3"
+        android:icon="@android:drawable/ic_menu_call"
+        android:title="@string/call" />
+</menu>

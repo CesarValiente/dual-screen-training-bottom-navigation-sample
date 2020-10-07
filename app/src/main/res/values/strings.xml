@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigationSample</string>
+    <string name="move_to_start">Move to start</string>
+    <string name="move_to_end">Move to end</string>
+    <string name="mail">Mail</string>
+    <string name="map">Map</string>
+    <string name="call">Call</string>
+    <string name="spanned">Spanned</string>
+</resources>
